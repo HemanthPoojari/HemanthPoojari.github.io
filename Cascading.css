@@ -1,0 +1,26 @@
+h2{
+    color: slateblue;
+  background-color: rgb(222, 212, 27) ; 
+  font-size:110px;
+  text-transform: capitalize;
+    text-decoration: underline;
+
+}
+/*Grouping selctor*/
+h1,h2,h3{
+  font-size: 50;
+}
+
+/*class selector*/
+.shett{
+text-decoration: underline;
+text-transform: uppercase;
+
+
+}
+/*id selector - always choose the one*/
+#google{
+  background-color: black;
+  color:red;
+  height: 100px;
+}
